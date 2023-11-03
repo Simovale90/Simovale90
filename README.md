@@ -4,7 +4,7 @@
 - 📫 How to reach me: simonavalente.to@gmail.com
 
 <p>Hi everyone,
-I'm Simona Valente and this is a short presentation.</p>
+I'm <i>Simona Valente</i> and this is a short presentation.</p>
 
 <p>I have focused my training and career mainly in two areas:
 <p>• <b>Data analysis</b>;</p>
