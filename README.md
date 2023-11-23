@@ -18,7 +18,7 @@ I'm <i>Simona Valente</i> and this is a short presentation.</p>
 <p>I would like to write that two of the qualities that distinguish me are <i>passion</i> and <i>determination</i>, but it is probably a sentence that you have read at least a million times. 
 I can tell you that I am a <b>trekking enthusiast</b>. I love exploring uncontaminated nature that leaves me breathless. At the moment the most important conquest I have made is the <i>Teide Volcano (3715 m.)</i>. For me it was an extraordinary feat because I suffer from vertigo and I never thought I would succeed!</p>
 
-<p>My love for hiking taught me to face obstacles with determination, to find creative solutions to overcome them and to challenge myself to overcome my limits.</p>
+<p>My love for hiking has taught me to face obstacles with determination and find creative solutions to overcome them!.</p>
 
 <p>I apply the same level of commitment and dedication to every aspect of my professional life, which is why I firmly believe in the importance of enthusiastically pursuing your goals, learning new things and constantly increasing your skills.</p>
 
